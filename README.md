@@ -1,4 +1,4 @@
-# **PublicBikeAnalysis_2025Mentoring**
+# **PublicBikeAnalysis**
 
 성　　과: 2025 선·후배 멘토링 우수상  
 참여학생: 김요한, 강지수, 김수아, 권순범, 박해영, 아크멧다리가
