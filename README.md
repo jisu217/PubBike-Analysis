@@ -1,6 +1,10 @@
 # 서울시 따릉이 이용 패턴 분석을 위한 아이디어 제안
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F5F5DC,FFFACD&height=300&section=header&text=PubBike-Analysis&fontSize=90"/>
 
+<div align="center">
+  <strong>65세 이상 인구 20% 시대, 디지털 격차를 해소하고 새로운 기회를 연결합니다.</strong>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python" alt="Python Version">
   <img src="https://img.shields.io/badge/Pandas-lightgrey?style=flat-square&logo=pandas" alt="Pandas">
@@ -10,6 +14,25 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql" alt="SQL">
 </p>
+
+<br>
+
+> 본 프로젝트는 **한국오라클 Data Activism! 공공데이터로 도시문제 해결하기** 프로그램의 일환으로 진행되었습니다.
+
+---
+
+## 목차
+
+1.  [**프로젝트 개요**](#1-프로젝트-개요)
+2.  [**주요 기능**](#2-주요-기능)
+3.  [**기술 스택**](#3-기술-스택)
+4.  [**API 명세서**](#4-api-명세서)
+5.  [**핵심 기술 및 문제 해결**](#5-핵심-기술-및-문제-해결)
+6.  [**프로젝트 성과**](#6-프로젝트-성과)
+7.  [**팀원 소개**](#7-팀원-소개)
+8.  [**시스템 아키텍처**](#8-시스템-아키텍처)
+
+---
 
 ## 📖 프로젝트 개요
 
