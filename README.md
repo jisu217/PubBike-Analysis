@@ -244,9 +244,3 @@ graph TB
 3. **인센티브 프로그램**: 비피크 시간대 이용자를 위한 마일리지 적립 제도
 
 ---
-
-<div align="center">
-  <strong>데이터로 만드는 스마트한 도시, BikeFlow와 함께 시작합니다.</strong>
-  <br><br>
-  <em>🚴‍♀️ Smart Mobility • 📊 Data-Driven • 🌱 Sustainable City</em>
-</div>
