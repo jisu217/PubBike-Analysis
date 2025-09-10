@@ -1,5 +1,5 @@
 # 서울시 따릉이 이용 패턴 분석을 위한 아이디어 제안
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFFFFF,FFFFF0&height=300&section=header&text=PubBike-Analysis&fontSize=90"/>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F5F5DC,FFFACD&height=300&section=header&text=PubBike-Analysis&fontSize=90"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python" alt="Python Version">
