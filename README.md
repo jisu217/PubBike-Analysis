@@ -1,9 +1,5 @@
 # 🚴 PubBike_서울시 따릉이 이용 패턴 분석을 위한 아이디어 제안
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4CAF50,8BC34A&height=300&section=header&text=PubBike&fontSize=90" />
-</p>
-
 <div align="center">
   <strong>공공데이터 포털 데이터를 활용한 데이터 분석 및 활용 아이디어</strong>
 </div>
